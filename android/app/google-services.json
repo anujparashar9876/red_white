@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621073616569",
+    "project_id": "test-2ede3",
+    "storage_bucket": "test-2ede3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621073616569:android:5c8afac7d536c44f875568",
+        "android_client_info": {
+          "package_name": "com.example.redwhite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpOMCaaS9D4tybZhvSMyeRZlXQLzWTbos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
